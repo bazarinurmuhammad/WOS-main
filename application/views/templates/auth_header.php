@@ -20,6 +20,6 @@
 </head>
 <!--end::Head-->
 
-<!--begin::Body-->
+<!--begin::Body-->'
 
 <body id="kt_body" class="bg-body">
